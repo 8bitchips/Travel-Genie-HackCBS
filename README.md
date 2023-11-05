@@ -88,8 +88,7 @@ Boom!! Now you can open your Project with credentials user@gmail.com and user@gm
 ### Contributors
 - Aman Gupta 
 - Shashank Kumar
-- Prakhar Singh
 - Prarthana Agrawal
 
 Built with ❤️ by Team C.O.D.E <br>
-At Hackout 2023, DTU
+At HackCBS 6.0
